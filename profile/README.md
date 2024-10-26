@@ -1,5 +1,3 @@
-# Developer Productivity Analytics
-
 This project aims to develop open-source tools and connectors to evaluate developer productivity, with a focus on documenting key metrics for teams and organizational leaders. The connectors will facilitate data collection across various software engineering intelligence platforms.
 
 <!--
